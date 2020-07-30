@@ -23,7 +23,7 @@ void *printhello(void *) {
 }
 
 
-int main(int argc, char *argv[]) {
+int main1(int argc, char *argv[]) {
     const char *ye = "叶";
     const char *sheng = "盛";
 
