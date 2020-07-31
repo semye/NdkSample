@@ -6,8 +6,7 @@
 #define CBASE_DEVELOPER_H
 
 #include <string>
-#include "Developer.h"
-
+#include "developer.h"
 
 
 void test();
@@ -47,7 +46,6 @@ public:
 private:
     int age;
 
-    // 对外隐藏的数据
     int total();
 
 protected:

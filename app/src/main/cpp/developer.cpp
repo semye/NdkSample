@@ -2,7 +2,7 @@
 // Created by yesheng on 2018/3/26.
 //
 
-#include "Developer.h"
+#include "developer.h"
 
 #include <iostream>
 

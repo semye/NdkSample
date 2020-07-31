@@ -4,7 +4,7 @@
 #include <climits>
 #include <cstring>
 
-#include "Developer.h"
+#include "developer.h"
 
 //全局变量
 int height = 164;
